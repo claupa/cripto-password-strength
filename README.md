@@ -1,0 +1,1 @@
+# cripto-password-strength
